@@ -1,86 +1,69 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">👋 Hi there, I’m Aditya Jadhav<br><br>I'm a passionate Software Engineer who loves building impactful solutions and continuously improving. I enjoy solving complex problems, writing clean code, and learning new technologies to stay ahead in this ever-evolving industry.</p>
-
-###
-
-<h1 align="center">About me</h1>
-
-###
-
-<br clear="both">
-
-<p align="center">🎯 I focus on building scalable, user-centric applications. 💡 I believe in continuous growth through consistency, curiosity, and real-world problem-solving. 🛠️ I’m actively working on improving my skills and contributing to meaningful projects. 🤝 I love collaborating and learning from fellow developers.</p>
-
-###
-<div align="right">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25tYW11bzl4NzdsZTZ4N2FoZjQ2NXhkNndyazRwMnc2NjdxODRiaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:818CF8&height=300&section=header&text=ADITYA%20JADHAV&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Software%20Developer&descAlign=50&descAlignY=60&descSize=22" />
 </div>
 
-<br clear="both">
-
-
-###
-
-<h1 align="center">I code with</h1>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=6366F1&center=true&vCenter=true&width=850&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Engineer;⚡+Building+Scalable+Web+Applications;🧠+Problem+Solver+%26+Tech+Learner;🔥+Always+Improving+My+Skills" />
 </div>
 
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=22C55E" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=TOTAL+STARS&style=for-the-badge&color=F59E0B" />
+</div>
 
-<h1 align="center">Social media</h1>
-
-###
+<br>
 
 <div align="center">
-  <a href="https://www.instagram.com/adityajadhav_6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="160" height="40" alt="linkedin logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 👨‍💻 About Me
+
+- 🎯 MERN Stack & Full Stack Developer  
+- 🛠️ Passionate about **clean, scalable & maintainable code**
+- 🌐 Building **modern web applications**
+- 🤝 Love collaborating and learning from developers
+- 📈 Believe in **consistency over motivation**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,mongodb,github&perline=8&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+
+
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="www.linkedin.com/in/aditya-jadhav-582556272" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="160" height="40" alt="discord logo"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/adityajadhav_6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="160" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <br><br>
+  <img src="https://img.shields.io/badge/🌟%20STAR%20MY%20REPOSITORIES-If%20You%20Find%20Them%20Useful!-6366F1?style=for-the-badge" />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=12&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=gradient"/>
 </div>
-
-###
