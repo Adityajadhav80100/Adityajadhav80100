@@ -17,12 +17,12 @@
 <p align="center">🎯 I focus on building scalable, user-centric applications. 💡 I believe in continuous growth through consistency, curiosity, and real-world problem-solving. 🛠️ I’m actively working on improving my skills and contributing to meaningful projects. 🤝 I love collaborating and learning from fellow developers.</p>
 
 ###
+<div align="right">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25tYW11bzl4NzdsZTZ4N2FoZjQ2NXhkNndyazRwMnc2NjdxODRiaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+</div>
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25tYW11bzl4NzdsZTZ4N2FoZjQ2NXhkNndyazRwMnc2NjdxODRiaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
-</div>
 
 ###
 
